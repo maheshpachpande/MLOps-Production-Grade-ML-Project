@@ -25,4 +25,8 @@
 # Create setup.py file and install the dependencies
 - pip install -r requirements.txt
 
+# try to connect mongodb
+
+# create the logger and exception files
+
 
