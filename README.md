@@ -6,8 +6,9 @@
 # Requirements tools:
 - anaconda
 - git
-- vscode
+- VsCode
 - MLOps Tools: evidently
+- MongoDB
 
 # Git Comands:
 - git init
